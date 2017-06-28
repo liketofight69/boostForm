@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1498179982 source:/home/gamagoori/Desktop/boost/main.cpp
+	<iostream>
+	<boost/thread.hpp>
+	<boost/date_time.hpp>
+	"main.h"
+	<boost/filesystem.hpp>
+	<boost/algorithm/string.hpp>
+
+1498179982 /home/gamagoori/Desktop/boost/main.h
+	<boost/filesystem.hpp>
+
